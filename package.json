@@ -1,7 +1,9 @@
 {
   "name": "ll-pkg",
-  "version": "0.1.0",
-  "private": false,
+  "version": "0.1.1",
+  "main": "dist/index.js",
+    "private": false,
+    "files": [ "dist", "README.md" ],
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "react-native": "^0.63.3"
