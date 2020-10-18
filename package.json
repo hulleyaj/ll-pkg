@@ -36,8 +36,10 @@
     "@babel/preset-env": "^7.12.1",
     "@babel/preset-react": "^7.12.1",
     "cross-env": "^7.0.2",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0",
     "react-scripts": "3.4.3"
+  },
+  "peerDependencies": {
+    "react": ">=16.14.0",
+    "react-dom": ">=16.14.0"
   }
 }
